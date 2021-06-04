@@ -6,7 +6,7 @@ Author/s: Yeohan Norona
 
 A student-project imitating  Mordecai Meirowitz's "Mastermind"
 
-with the modification of using numbers instead of colored pegs
+with the modification of using numbers instead of colored pegs.
 
 This project is called "Numerical Mastermind". 
 
