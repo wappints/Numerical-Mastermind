@@ -1,6 +1,6 @@
 
 # Numerical Mastermind
-First Term Project | Freshman Year | 
+First Term Project | Freshman Year 
 
 Author/s: Yeohan Norona 
 
